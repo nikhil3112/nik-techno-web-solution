@@ -23,20 +23,20 @@
 h1 {
     position: relative;
     color: #ffffff;  
-    font-size: 14rem;
-    line-height: 0.9;
+    /* font-size: 14rem;
+    line-height: 0.9; */
 }
 
 .about-p{
     position: relative;
     color: #ffffff;  
-    font-size: 22px;
-    line-height: 1.5;
+    /* font-size: 22px;
+    line-height: 1.5; */
 }
 
 .mydv{
     position: relative;
     color: #ffffff;  
-    font-size: 22px;
-    line-height: 0.9;
+    /* font-size: 22px;
+    line-height: 0.9; */
 }
